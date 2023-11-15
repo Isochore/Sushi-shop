@@ -4,8 +4,8 @@ import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Popular from '@/components/Popular';
-import Subscribe from '@/components/subscribe';
-import Trending from '@/components/trending';
+import Subscribe from '@/components/Subscribe';
+import Trending from '@/components/Trending';
 
 const Home = () => {
   return (
